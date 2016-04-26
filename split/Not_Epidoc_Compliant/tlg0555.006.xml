@@ -1,10 +1,4 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
-<!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersProse PUBLIC "-//Perseus P4//DTD Perseus Prose//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersProse.dtd" >
-%PersProse;
-]>
-<TEI.2>
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
 	     <title>Stromata</title>
@@ -45,7 +39,7 @@
     </profileDesc>
   </teiHeader>
 
-  <text id="tlg0555.tlg004.perseus-grc1.7-8"><body>
+  <text id="tlg0555.tlg004.perseus-grc1.7-8"><body> <div type="edition" n="">
 <pb id="v.3.p.156"/>
 
 <pb ed="alt" n="935 P"/>
@@ -1167,4 +1161,4 @@
 ζώντων καὶ νεκρῶν, καὶ διὰ τοῦ ἁγίου πνεύματος εἴη δόξα, τιμή,
 κράτος, αἰώνιος μεγαλειότης καὶ νῦν καὶ εἰς γενεὰς γενεῶν καὶ εἰς
 τοὺς αἰῶνας τῶν αἰώνων. ἀμήν.</p>
-</body></text></TEI.2>
+</div></body></text></TEI></TEI.2>

@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader><fileDesc>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc>
       <titleStmt>
 	      <title>curtitle</title>
         <author>Galen</author>
@@ -36,7 +35,7 @@
       </langUsage>
     </profileDesc></teiHeader>
 
-<text><body>
+<text><body> <div type="edition" n="">
 <pb ed="alt" n="p. 91 R."/> <head>ΓΟΡΓΙΟΥ ΕΛΕΝΗΣ ΕΓΚΩΜΙΟΝ.</head>
 <p><milestone unit="section" n="1"/> Κόσμος πόλει μὲν εὐανδρία, σώματι δὲ κάλλος,
 <pb ed="alt" n="679"/> ψυχῇ δὲ σοφία, πράγματι δὲ ἀρετή, λόγῳ δὲ ἀλήθεια·
@@ -233,4 +232,4 @@
 καταλῦσαι μώμου ἀδικίαν καὶ δόξης ἀμαθίαν, ἐβουλήθην
 γράψαι τὸν λόγον Ἑλένης μὲν ἐγκώμιον, ἐμὸν
 δὲ παίγνιον.</p>
-</body></text></TEI>
+</div></body></text></TEI>

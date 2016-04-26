@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader><fileDesc>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc>
       <titleStmt>
 	      <title>curtitle</title>
         <author>Galen</author>
@@ -36,7 +35,7 @@
       </langUsage>
     </profileDesc></teiHeader>
 
-<text><body>
+<text><body> <div type="edition" n="">
 <head>ΓΟΡΓΙΟΥ ΥΠΕΡ ΠΑΛΑΜΗΔΟΥΣ ΑΠΟΛΟΓΙΑ</head>
 <p><milestone unit="section" n="1"/>Ἡ μὲν κατηγορία καὶ [ἡ ἀπολογία] κρίσις οὐ περὶ 
 θανάτου γίγνεται· θάνατον μὲν γὰρ ἡ φύσις φανερᾷ
@@ -407,4 +406,4 @@
 τῶν πρώτων Ἕλληνας Ἑλλήνων οὐκ ἄξιον οὐδ᾿ ἀξιῶσαι
 μήτε προσέχειν τὸν νοῦν μήτε μεμνῆσθαι τὰ
 λεχθέντα.</p>
-</body></text></TEI>
+</div></body></text></TEI>

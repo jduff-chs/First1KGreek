@@ -1,5 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader><fileDesc>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc>
       <titleStmt>
 	      <title>curtitle</title>
         <author>Galen</author>
@@ -36,7 +35,7 @@
       </langUsage>
     </profileDesc></teiHeader>
 
-<text><body>
+<text><body> <div type="edition" n="">
 <head>ΑΝΤΙΣΘΕΝΟΥΣ ΟΔΥΣΣΕΥΣ.</head>
 <p><milestone unit="section" n="1"/>Οὐ πρὸς σέ μοι μόνον ὁ λόγος, δι᾿ ὃν ἀνέστην,
 ἀλλὰ καὶ πρὸς τοὺς ἄλλους ἅπαντας· πλείω γὰρ ἀγαθὰ
@@ -171,4 +170,4 @@
 ἑλόντα, σὲ δέ, ὡς ἐγᾦμαι, τὴν φύσιν ἀπεικάζων τοῖς
 τε νωθέσιν ὄνοις καὶ βουσὶ τοῖς φορβάσιν, ἄλλοις
 παρέχουσι δεσμεύειν καὶ ζευγνύναι αὑτούς.</p>
-</body></text></TEI>
+</div></body></text></TEI>

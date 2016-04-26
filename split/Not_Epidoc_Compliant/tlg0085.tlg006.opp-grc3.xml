@@ -1,7 +1,4 @@
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
- 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="work" n="Lib.">Libation Bearers</title>
@@ -66,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <text xml:lang="grc">
-    <body>
+    <body> <div type="edition" n="">
       <pb/>
       <div type="textpart" subtype="castlist">
         <head>
@@ -2087,6 +2084,6 @@
           </sp>
         </div>
       </div>
-    </body>
+    </div></body>
   </text>
 </TEI>

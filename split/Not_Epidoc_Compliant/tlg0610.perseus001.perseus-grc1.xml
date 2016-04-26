@@ -1,5 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader><fileDesc>
+  <teiHeader>
+    <fileDesc>
       <titleStmt>
 	      <title>curtitle</title>
         <author>Galen</author>
@@ -36,7 +39,7 @@
       </langUsage>
     </profileDesc></teiHeader>
 
-<text><body>
+<text><body> <div type="edition" n="">
 <pb xml:id="v.3.p.183"/>
 
 <head>[ΑΛΚΙΔΑΜΑΝΤΟΣ] ΟΔΥΣΣΕΥΣ
@@ -282,4 +285,4 @@
 ὥστε ἐὰν νοῦν ἔχητε, ψηφιεῖσθε τὰ βέλτισθ᾿ ὑμῖν αὐτοῖς,
 καὶ τῶν λοιπῶν οὕνεκα παράδειγμα ποιήσεσθε
 τοῦτον τιμωρησάμενοι.</p>
-</body></text></TEI>
+</div></body></text></TEI>
