@@ -77,6 +77,7 @@
  <change who="Jack Duff" when="2016-06-23">Seperated the Latin trans. from grc1 and placed in this document. Copied structure from Greek.</change>
  <change who="Jack Duff" when="2016-06-24">Added "source" divs to match grc, and made sure headers were marked accordingly for every div. 
   Removed incorrect line group formatting. </change>
+ <change who="Jack Duff" when="2016-07-25">Disambiguated marginalia.</change>
 </revisionDesc>
 </teiHeader>
   <text>
@@ -87,7 +88,7 @@
      
 <div type="textpart" subtype="section" n="pr">
  <pb n="v.3.pt.1.p.3"/>
- <note type="marginal">AC</note> <p>Eusebius, qui a beato Pamfilo martyre eognomentum sortitus est, post <lb n="82"/>
+ <note type="marginal">AC</note> <p>Eusebius, qui a beato Pamfilo martyre eognomentum sortitus est, post <milestone unit="altnumbering" n="82"/>
  decem ecclesiasticae historiae libros, post temporum canones, quos nos Latina
  lingua edidimus, post diuersarum uocabula nationum, quae quo
  modo olim apud Hebraeos dicta sint et nunc dicantur exposuit, post
@@ -123,7 +124,7 @@ nominum C 18 credo] + explicit Α + explicit praefatio, incipit liber locorum
 (so Β) et nominum C</note>
 
 <pb n="v.3.pt.1.p.5"/>
-<note type="marginal">ΑC</note> meminit horurn montium et Iereraias || in uisione contra Babylonem. <lb n="83"/>
+<note type="marginal">ΑC</note> meminit horurn montium et Iereraias <milestone unit="altnumbering" n="83"/> in uisione contra Babylonem. 
 Iosefus quoque in prirno antiquitatum Judaicarum libro saecularium
 litterarum historicos proferens »animaduertens« inquit Noe »terram diluuio
 liberatam septem alios dies abire permisit, et uniuersa animalia
@@ -157,7 +158,7 @@ distans. sita est autem Bethel euntibus Aeliam de Neapoli in laeua
 <note type="marginal">AC</note> parte uiae duodecimo circiter miliario ab Aelia, et usque hodie, paruus
 licet uicus, ostenditur. sed et ecclesia aedificata est ubi dormiuit Iacob
 pergens Mesopotamiam, unde et ipsi loco Bethel, id est domus dei, nomen
-|| imposuit. Aggai uero uix paruae ruinae resident, et locus tantummodo <lb n="84"/>
+<milestone unit="altnumbering" n="84"/> imposuit. Aggai uero uix paruae ruinae resident, et locus tantummodo 
 <lb n="5"/> demonstratur. et sciendum quod in Hebraeo G litteram non habet,
 sed uocatur Ai, scribiturque per elementum quod apud eos dicitur Ain.</p>
 <p>Astaroth Carnaim terra gigantum quondam in supercilio Sodomorum,
@@ -200,7 +201,7 @@ Va (C) 23 a Va &lt; AC 26 Aegypto] + ad Α.</note>
 Actibus quoque apostoloruin fit nientio. et in Regnorum libris urbs
 quaedam Palaestinae Aelam scribitur.</p>
 <p>Adama una de quinque ciuitatibus Sodomorum, euersa cum ceteris.
-<lb n="5"/> Asasonthamar. in hac habitaant quondam Amorraei quos interfecit <lb n="85"/>
+<lb n="5"/> Asasonthamar. in hac habitaant quondam Amorraei quos interfecit <milestone unit="altnumbering" n="85"/>
 Chodollagomor, iuxta eremum Cades. est et aliud castellum Thamara,
 unius diei itinere a Mampsis oppido separatum, pergentibus Ailam
 de Chebron, ubi nunc Romanum praesidium positum est.</p>
@@ -236,7 +237,7 @@ Asemona castra filiorurn Isrel in deserto.</p>
 <p>Aetharim, pro quo Aquila et Symmachus exploratorum uiam interpretati
 sunt, ubi aduersum Chananaeum, qui ab austro contra Israel
 eruperat. in solitudine dimicatur.</p>
-<lb n="10"/> <p>Aie quae et Achalgai. pro hac Symmachus interpretatur in collibus. <lb n="86"/>
+<lb n="10"/> <p>Aie quae et Achalgai. pro hac Symmachus interpretatur in collibus. <milestone unit="altnumbering" n="86"/>
 est autem e regione quondam Moab, nunc Areopoleos, ad orientalem
 plagam.</p>
 <p>Arnon rupes quaedam in sublime proiecta in finibus Amorraeorum
@@ -272,7 +273,7 @@ descendens in mare mortuum fluit. cecidit autem Aroer in sortem
 <lb n="10"/> tribus Gad contra faciem Rabba.</p>
 <p>Astaroth antiqua ciuitas Og regis Basan, in qua habitauerunt gigantes:
 quae postea cecidit in sortem tribus Manasse: regionis Batanaeae,
-et sex milibus ab Adra urbe || Arabiae separata est. porro Adra <lb n="87"/>
+et sex milibus ab Adra urbe <milestone unit="altnumbering" n="87"/> Arabiae separata est. porro Adra 
 a Bostra uiginti quinque milibus distat. diximus et supra de Astaroth
 <lb n="15"/> Carnaim.</p>
 <p>Agri specula mons Moabitarum, in quem adduxit Balac filius Sefor
@@ -446,7 +447,7 @@ Ader urbs quam expugnauit Iesus, rege illius interfecto.</p>
  <lb n="25"/> <p>Aemath urbs quae cecidit in sortem Ruben, sed et nunc Amathus
   uilla dicitur trans Iordanem in uicesimo primo miliario Pellae ad meri-
   diem. est et alia uilla in uicinia Gadarae nomine Ammatha, ubi calidae
-  aquae erumpunt. in Regnorum quoque libris scribitur: &gt;ab introitu
+  aquae erumpunt. in Regnorum quoque libris scribitur: »ab introitu
   Aemath usque ad mare Araba«, hoc est deserti, quod est. mare mortuum.
   <lb n="30"/> ego an tern iuuestigans repperi Aemath nrbem Coeles Syriae appellari, quae
   nunc Graeco sermone Epifania nuncupatur.</p>
@@ -486,7 +487,7 @@ Abraam, quattuor milibus a Chebron.</p>
 Asna in tribu Iudae.</p>
 <p>Adollam in tribu Iudae. et usque hodie uicus non paruus ad
 orientem Eleutheropoleos in decimo eius miliario hoc uocatur nomine.</p>
-<p>Adithaim in sorte tribus Iudae. dieitur autem et quae||dam uilla <lb n="93"/>
+<p>Adithaim in sorte tribus Iudae. dieitur autem et quae<milestone unit="altnumbering" n="93"/>dam uilla 
 <lb n="30"/> Adia iuxta Gazam, et alia Aditha circa Diospolim, quasi ad orientalem
 plagam respiciens.</p>
 <note type="footnote">9 ff. vgl. Hier. ep. 108, 12: et locum Adomim, quod interpretatur sanguinum,
@@ -565,7 +566,7 @@ in sexto miliario Legionis contra septentrionem.</p>
 <pb n="v.3.pt.1.p.31"/>
 <note type="marginal">ACH</note> <p>Achsaf in tribu Aser.</p>
 <p>Alimelecli sortis Aser.</p>
-<p>Amath in tribu Aser. <note type="marginal">95</note></p>
+<p>Amath in tribu Aser. <milestone unit="altnumbering" n="95"/></p>
 <p>Abdon in tribu Aser. ciuitas separata Leuitis.</p>
 <lb n="5"/> <p>Aniel in tribu Aser est quaedam uilla nomine Betoaenea in quinto
 decimo lapide a Caesarea sita in monte contra orientalem plagam, in
@@ -635,7 +636,7 @@ finibus Dommim.</p>
 <lb n="5"/> <p>Aialim, pro quo Aquila transtulit ceruorum, Theodotion lapides
 ceruorum.</p>
 <p>Aendor, quae est in Iezrael, ubi filii Israel se ad proelium praeparantes
-castra posuerunt. et est hodieque grandis ǁ uicus Aendor, iuxta <note type="marginal">97</note>
+castra posuerunt. et est hodieque grandis ǁ uicus Aendor, iuxta <milestone unit="altnumbering" n="97"/>
 montem Thabor ad meridiem in quarto miliario.</p>
 <note type="marginal">AC</note> <p>Afec iuxta Aendor Iezraelis, ubi dimicauit Saul.</p>
 <p>Arma ad quem locum spoliorum partem misit Dauid.</p>
@@ -668,7 +669,7 @@ niontes captiuus ductus est Israel.</p>
 <p>Aian quam expugnauit rex Assyriorum.</p>
 <p>Aia in Assyriorum regione locus.</p>
 <p>Ameth regio Assyriorum.</p>
-<lb n="10"/> <p>|| Asima oppidum in terra Iudaea, quod aedificauerunt hi qui ad <note type="marginal">98</note>
+<lb n="10"/> <p><milestone unit="altnumbering" n="98"/> Asima oppidum in terra Iudaea, quod aedificauerunt hi qui ad 
 eam uenerant de Emath.</p>
 <p>Arcem. Iosefus refert hanc esse Petram urbem nobilem Palaestinae.</p>
 <p>Adramelech idolum Assyriorum. quod et Samaritae uenerati sunt.</p>
@@ -705,7 +706,7 @@ sciendum autem quod in Hebraeo pro hoc nomine scriptum sit Aa
 quod a siccitate quidam interpretantur in solem, et alii in testam transferunt,
 uolentes uel Heliopolim significare uel Ostracinen. sed et huius
 rei disputationem, quia longiorest, in libris Hebraicarum quaestionum repperies.</p>
-<lb n="10"/> <p>|| Arfad urbs Damasci, quam oppugnauit rex Assyriorum, sicut in <note type="marginal">99</note>
+<lb n="10"/> <p><milestone unit="altnumbering" n="99"/> Arfad urbs Damasci, quam oppugnauit rex Assyriorum, sicut in 
 Esaia et Ieremia et Regnorum libris scribitur.</p>
 <p>Aneugaua. et huius Esaias meminit, quam Aquila transtulit Ane
 et Gaua, silicet U syllabam, quae in media nominis posita est, in coniunetionem
@@ -751,7 +752,7 @@ regni Xemrod, in qua eorum qui aedificauere turrim linguae diuisae
 sunt, quorum principem Iosefus Xemrod fuisse affirmat. testem quoque
 eius historiae Sibyllam Graecam exbibens, »locus« inquit »in quo
 turrim aedificauerunt, nunc appellatur Babylon propter confusionem
-<lb n="10"/> sermonis eorum qui altissimam turrim omni studio fabricabantur : || siquidem <lb n="100"/>
+<lb n="10"/> sermonis eorum qui altissimam turrim omni studio fabricabantur : <milestone unit="altnumbering" n="100"/> siquidem 
 Hebraei confusionem Babel uocant. de bac turri et diuersitate
 linguarum scribit et Sibylla in hunc modum: cum omnes mortales una
 lingua uterentur. quidam ex his altissimam aedificauere turrim, caelum
@@ -783,7 +784,7 @@ palmarum, antiquae ubertatis indicia. nulluni autem tnoueat quod Segor
 eadem Zoara dicitur, eam idem nornen sit paruidae uel minoris, sed Segor
 <lb n="15"/> Hebraice, Zoara Syriace nuneupatur. Bala autem interpretatur absorpta:
 super quo in libris Hebraiearum quaestionum plenius diximus.</p>
-<p>|| Baianus, id est quercus, luctus; sub qua Rebeccae nutrix sepulta est. <note type="marginal">101</note></p>
+<p><milestone unit="altnumbering" n="101"/> Baianus, id est quercus, luctus; sub qua Rebeccae nutrix sepulta est. </p>
 <p>Barad. inter Cades et Barad hodieque Agar puteus demonstratio.</p>
 <p>Bethleem ciuitas Dauid in sorte tribus Iudae, in qua dominus noster
 <lb n="20"/> atque saluator natus est, in sexto ab Aelia miliario contra meridianam
@@ -830,7 +831,7 @@ nunc Batanaea dicitur.</p>
 idolum Moab cognomento Baal super montem Fogor, quem Latini Priapum
 uocani. et de hoc in libris Hebraicarum qiiaestionitm plenius dictum est.</p>
 <lb n="20"/> <p>Baean ciuitas Amorraeorum, quae et ipsa a filiis Buben tenta est.</p>
-<p>Betbamnaram trans Iordanem, quam aedificauit tribus Gad. est <note type="marginal">102</note>
+<p>Betbamnaram trans Iordanem, quam aedificauit tribus Gad. est <milestone unit="altnumbering" n="102"/>
 hodieque uilla Bethnamaris in quinto a Liuiade miliario contra
 aquilonem.</p>
 <p>Betharran trans Iordanem, quam aedificauit tribus Gad.</p>
@@ -864,7 +865,7 @@ usque hodie saxa quae de Iordane illuc translata scriptura commemorat.</p>
 <p>Bethoron, ad quam usque inimicos persecutus est reges Iesus, quae
 cecidit in sortem filiorum Iosef, id est Efraim. sunt autem duo uici in
 <lb n="20"/> duodecimo ferme ab Aelia lapide Nicopolim pergentibus, e quibus propter
-situm unus dicitur || Bethoron superior, quem aedificauit Salomon, et <note type="marginal">103</note>
+situm unus dicitur <milestone unit="altnumbering" n="103"/> Bethoron superior, quem aedificauit Salomon, et 
 alius Bethoron inferior, datus Leuitis in possessionem.</p>
 <p>Barne, haec ipsa est quae et Cadesbarne, in deserto quod extenditur
 usque ad urbem Petram.</p>
@@ -905,7 +906,7 @@ Eusebius III.</note>
 <pb n="v.3.pt.1.p.51"/>
 <note type="marginal">AC</note> <p>Bersabee in tribu Iudae siue Symeonis. est usque hodie cicus
 grandis in uicesimo a Chebron miliario uergens ad austrum, in quo et
-Romanorum militum praesidium positum est. || a quo loco termini <note type="marginal">104</note>
+Romanorum militum praesidium positum est. <milestone unit="altnumbering" n="104"/> a quo loco termini 
 Iudaeae terrae incipientes tendebantur usque ad Dan, quae iuxta Paneadem
 <lb n="5"/> cernitur. interpretatur uero Bersabee puteus iuramenti eo, quod
 ibi Abraam et Isaac foedus cum Abimelech sociauere iurantes. nee
@@ -940,7 +941,7 @@ et apostolorum Acta referunt eunuchum Candacis reginae in hoc esse a
 <lb n="5"/> Filippo baptizatum. est et alia uilla Bethsur in tribu Iudae mille passibus
 distans ab Eleutheropoli.</p>
 <p>Boon in tribu Beniamin.</p>
-<p>|| Bethalon in tribu Beniamin, pro qua Symmachus interpretatur in <note type="marginal">105</note>
+<p><milestone unit="altnumbering" n="105"/> Bethalon in tribu Beniamin, pro qua Symmachus interpretatur in 
 campestribus.</p>
 <lb n="10"/> <p>Bethalla in tribu Beniamin.</p>
 <p>Beroth in tribu Beniamin.</p>
@@ -984,7 +985,7 @@ Bezec uicinae sibi in septimo decimo lapide a Neapoli descendentibus
 Scythopolim.</p>
 <p>Bethsan. ex hoc oppido tribus Manasse accolas pristinos non potuit
 expellere. et nunc appellatur Scytbopolis urbs nobilis Palaestinae,
-<lb n="10"/> quam interdum scriptura cognominat domum San, quod in lingua <note type="marginal">106</note>
+<lb n="10"/> quam interdum scriptura cognominat domum San, quod in lingua <milestone unit="altnumbering" n="106"/>
 nostra inteqoretatur inimicus.</p>
 <p>Bethsames ciuitas sacerdotalis in tribu Beniamin, quae usque hodie
 demonstratur de Eleutheropoli pergentibus isicopolim in decimo miliario
@@ -1020,7 +1021,7 @@ persecutus est, appellans eum lapidem adiutorii.</p>
 porro Bama Aquila semper excelsum transtulit.</p>
 <p>Boses nomen petrae, super qua in libris Hebraicarum quaestionuvi
 <lb n="10"/> diximus.</p>
-<p>|| Besor torrens ad quem uenit Dauid. <note type="marginal">107</note></p>
+<p><milestone unit="altnumbering" n="107"/> Besor torrens ad quem uenit Dauid. </p>
 <p>Borasan ad quem locum Dauid praedae partem misit.</p>
 <p>Baurim locus ad quem usque prosecutus est Micbol filiam Saulis
 uir suus lacrimans.</p>
@@ -1058,7 +1059,7 @@ continetur Gobel.</p>
 <head>De Euangeliis.</head>
 <p>Bethsaida ciuitas in Galilaea, Andreae et Petri et Filippi apostolorum,
 prope stagnum Genesaretb.</p>
-<lb n="15"/> <p>|| Betbfage uillula in monte Oliueti, ad quam uenit dominus Iesus. <note type="marginal">108</note></p>
+<lb n="15"/> <p><milestone unit="altnumbering" n="108"/> Betbfage uillula in monte Oliueti, ad quam uenit dominus Iesus. </p>
 <p>Bethania uilla in seeundo ab Aelia miliario in latere montis Oliueti,
 ubi saluator Lazarum suscitauit, cuius et monumentum ecclesia nunc ibidem
 extrueta demonstrat.</p>
@@ -1079,7 +1080,7 @@ antiquis operis signa testatur H 26 proferunt C</note></div></div>
 <pb n="v.3.pt.1.p.61"/>
  <div type="textpart" subtype="section" n="3">
 <div type="textpart" subtype="source">
-  <note type="marginal">AC</note><head>|| De Genesi.</head> <note type="marginal">241</note>
+  <note type="marginal">AC</note><head><milestone unit="altnumbering" n="241"/> De Genesi.</head> 
 <p>Geon fluuius qui apud Aegyptios Nilus uocatur, in paradiso oriens
 et uniuersam Aethiopiam circumiens.
 Gomorra una de quinque ciuitatibus Sodomorum, quae cum reliquis
@@ -1110,7 +1111,7 @@ Galaad filius Machir filii Manasse; vgl. comm. in Jer 22, 6</note>
 manu Galaad filius Machir filii Manasse.</p>
 <p>Gader turris, ubi habitante Iacob Ruben patris uiolauit torum. quae
 absque G littera in Hebraeo Ader scribitur.</p>
-<lb n="5"/> <p>|| Gethaim, pro qua in Hebraeo positurn est Auith, ciuitas Adad, <note type="marginal">125</note>
+<lb n="5"/> <p><milestone unit="altnumbering" n="125"/> Gethaim, pro qua in Hebraeo positurn est Auith, ciuitas Adad, 
 qui quartus regnauit in terra Idumaea, quae nunc Gebalene dicitur.</p>
 <p>Gesem regio Aegypti, in qua habitauit Iacob cum liberis suis.</p></div>
   
@@ -1145,7 +1146,7 @@ tribus Manasse. et haec esse nunc dicitur Gerasa, urbs insignis Arabiae.
 quidam autem ipsam esse Gadaram aestimant. sed et Euangelium meminit
 Gergessenorum.</p>
 <lb n="5"/> <p>Gadgada, ubi aquarum torrentes sunt, est autem locus in solitudine.
-Gaulon siue Golam in tribu Manasse, ciuitas sacerdo talis et fugitiuorum <note type="marginal">126</note>
+Gaulon siue Golam in tribu Manasse, ciuitas sacerdo talis et fugitiuorum <milestone unit="altnumbering" n="126"/>
 in regione Basanitide. sed et nunc Gaulon uocatur uilla pergrandis
 in Batanaea, ex cuius nomine et regio sortita uocabulum est.</p>
 <p>Gebal mons in terra repromissionis, ubi ad Imperium Moysi altare
@@ -1181,7 +1182,7 @@ cultu babitus. sed et iuxta Βethel quidam aliam Galgalam suspicantur.</p>
 <p>Gai iuxta Bethaun et Bethel, quam expugnauit Iesus, rege illius
 interfecto. et babitauit in illa quondam citra Iordanem Amorraeus; nunc
 desertus tantum ostenditur locus.</p>
-<lb n="10"/> <p>|| Gabaon, unde Gabaonitae supplices uenerunt ad Iesum. erat olim <lb n="127"/>
+<lb n="10"/> <p><milestone unit="altnumbering" n="127"/> Gabaon, unde Gabaonitae supplices uenerunt ad Iesum. erat olim 
 metropolis et regalis ciuitas Euaeorum, ceciditque in sortem tribus Beniamin.
 et nunc ostenditur uilla eodem nomine in quarto miliario Bethelis
 contra occidentalem plagam iuxta Rama et Remmon. ubi Salomon
@@ -1214,7 +1215,7 @@ ab Antipatride in sexto miliario contra septentrionem.</p>
 Daromae contra orientem imminens mari mortuo.</p>
 <p>Gadera in tribu Iudae. nunc appellatur uilla ad regionem ciuitatis
 Aeliensis pertinens nomine Gadora circa terebinthum.</p>
-<lb n="20"/> <p>Gedur in tribu Iudae. hodieque uocatur Gedrus uicus || pergrandis <note type="marginal">128</note>
+<lb n="20"/> <p>Gedur in tribu Iudae. hodieque uocatur Gedrus uicus <milestone unit="altnumbering" n="128"/> pergrandis 
 in decimo miliario Diospoleos pergentibus Eleutheropolim.
 Gabli terra Allofylorum.</p>
 <p>Gison in tribu Iudae.</p>
@@ -1252,7 +1253,7 @@ constituerunt filii Ruben.</p>
 est Iesus filius Naue. et usque hodie iuxta uicum Thamnam sepulcrum
 eius insigne monstratur.</p>
 <p>Gabaath in tribu Beniamin urbs Finees filii Eleazar, ubi sepultus
-est Eleazarus. est autem nunc Gabatha uilla in || douodecimo lapide <note type="marginal">129</note>
+est Eleazarus. est autem nunc Gabatha uilla in <milestone unit="altnumbering" n="129"/> douodecimo lapide 
 <lb n="25"/> Eleutheropoleos, ubi et sepulcrum Abbacuc profetae ostenditur.</p>
 <p>Gabaam. usque ad hanc bellatum est contra tribum Beniamin, sicut
 in libro Judicum scribitur.</p>
@@ -1289,7 +1290,7 @@ Tiberiadem et stagnum Genesareth in tribu Zabulon.</p>
 Ger locus in quo percussit Ieu rex Israel Ochoziam regem Iudae
 iuxta Ieblaam.</p>
 <lb n="25"/> <p>Geththachofer unde Ionas profeta fuit.
-|| Gaddi quam percussit Azael rex Damasci. posita est et supra <note type="marginal">130</note>
+<milestone unit="altnumbering" n="130"/> Gaddi quam percussit Azael rex Damasci. posita est et supra 
 Gadda.</p>
 <p>Gemela regio Idumaeorum, pro qua Aquila et Symmachus interpretantur
 uallem salis.</p>
@@ -1330,7 +1331,7 @@ montis Sion.</p></div></div>
      
 <div type="textpart" subtype="section" n="4">
 <div type="textpart" subtype="source">
-<head>|| De libro Geneseos.</head> <note type="marginal">114</note>
+<head><milestone unit="altnumbering" n="114"/> De libro Geneseos.</head> 
 <p>Dasem urbs Assyriorum nobilis, quam exstruxit Assur inter Nineuen
 <lb n="25"/> et Chalach.</p>
 <note type="footnote">6 l. Gebaroth 7 colonis CH 9 Gamen CH | Gamol C 14 Gergessa Α
@@ -1352,7 +1353,7 @@ de quo et Iordanis flumen erumpens a loco sortitus est nomen. Ior
 quippe ῥεῖθρον id est fluuium siue riuum Hebraei uocant.</p>
 <p>Dannaba ciuitas Balac filii Beor regis Edom, post quem regnauit
 <lb n="15"/> lob. licet mihi longe aliter uideatur. et est usque hodie uilla Dannaia in
-octauo miliario Areopoleos pergen||tibus Arnonem, et altera Dannaba <note type="marginal">115</note>
+octauo miliario Areopoleos pergen<milestone unit="altnumbering" n="115"/>tibus Arnonem, et altera Dannaba 
 super montem Fogor in septimo lapide Esbus.</p>
 <p>Dothaim ubi inuenit Iosef fratres suos pecora pascentes, qui et
 usque hodie in duodecimo a Sebaste miliario contra Aquilonis plagam
@@ -1397,7 +1398,7 @@ et ipsa sacerdotibus separata. porro Gothoniel quidam arbitrantur filium
 <p>Dabir super Iordanem ciuitas Amorraeorum.</p>
 <p>Dimona in tribu Iudae.</p>
 <p>Dadan in tribu Iudae.</p>
-<p>Denna in tribu Iudae. eadem est autem. quae et Dabir ciuitas <note type="marginal">116</note>
+<p>Denna in tribu Iudae. eadem est autem. quae et Dabir ciuitas <milestone unit="altnumbering" n="116"/>
 <lb n="20"/> litterarum.</p>
 <p>Dauia siue Dauid in tribu Iudae.</p>
 <p>Duma in tribu Iudae uicus grandis in Daroma, hoc est ad australem
@@ -1440,7 +1441,7 @@ trans lordanem circa Hippum et Pellam et Gadaram.</p></div></div>
 <head>De Genesi.</head>
 <lb n="20"/> <p>Eden sacri paradisi locus ad orientem, quod in uoluptatem deliciasque
 transfertur.</p>
-<p>|| Euila, ubi aurum purissimum, quod Hebraice dicitur Zaab, et gemmae <note type="marginal">117</note>
+<p><milestone unit="altnumbering" n="117"/> Euila, ubi aurum purissimum, quod Hebraice dicitur Zaab, et gemmae 
 pretiosissimae, carbunculus zmaragdusque nascuntur. est autem
 regio ad orientem uergens, quam circuit de paradiso Fison egrediens,
 <note type="footnote">15 sicut] super qua Α 16 Faeno Β Foeno Α Seno C | aquilonem] +
@@ -1466,16 +1467,16 @@ iuxta uiam, ubi sepulta est Rachel, quinto miliario ab Ierusalem in eo
 Paralipomenon libro, sicut supra dictum est.</p></div>
  
  <div type="textpart" subtype="source">
-<note type="marginal">ACH</note> <head>|| De Exodo.</head> <note type="marginal">131</note>
+<note type="marginal">ACH</note> <head><milestone unit="altnumbering" n="131"/> De Exodo.</head> 
 <p>Iroth locus deserti ad quem venerunt filii Israel mare rubrum
 transfretantes.</p></div>
  
  <div type="textpart" subtype="source">
-<note type="marginal">AC</note> <head>|| De Numeris et Deuteronomio.</head> <note type="marginal">117</note>
-<note type="marginal">ACH</note> <p>|| Incendium. id est ἐμπυρισμός, locus in deserto, ubi quandam partem <note type="marginal">131</note>
+<note type="marginal">AC</note> <head><milestone unit="altnumbering" n="117"/> De Numeris et Deuteronomio.</head> 
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="131"/> Incendium. id est ἐμπυρισμός, locus in deserto, ubi quandam partem 
 populi flamma consumpsit.</p>
 <p>Inthaath castra in deserto filiorum Israel.</p>
-<note type="marginal">AC</note> <p>|| Ebrona in deserto castra filiorum Israel.</p> <note type="marginal">117</note>
+<note type="marginal">AC</note> <p><milestone unit="altnumbering" n="117"/> Ebrona in deserto castra filiorum Israel.</p> 
 <lb n="25"/> <p>Emath, quam transierunt exploratores, qui ab Iesu missi sunt.</p>
 <p>Erma, ubi populi pars caesa est Israelis ab Amalec et Chananaeo,
 quem in Deuteronomio Amorraeum scriptura uocat.</p>
@@ -1495,7 +1496,7 @@ Ephratha . . . διώνυμος est appellaturque Bethleem, in qua ortus est co
 fuisset ante Moabitarum, ab Amorraeis belli iure possessa est. meminit
 huius Ieremias, Esaias quoque in uisione contra Moab. porro nunc
 uocatur Esbus, urbs insignis Arabiae in montibus, qui sunt contra Iericho,
-<lb n="5"/> uiginti ab || Iordane milibus distans. fuit autem in tribu Ruben, separata <note type="marginal">118</note>
+<lb n="5"/> uiginti ab <milestone unit="altnumbering" n="118"/> Iordane milibus distans. fuit autem in tribu Ruben, separata 
 Leuitis.</p>
 <p>Edrai, ubi interfectus est Og rex Basan gigas et potens, omnisque
 illius caesus exercitus. nunc autem est Adra insignis Arabiae ciuitas in
@@ -1517,8 +1518,8 @@ lapidatus est, nuncupatam, cum ille Achan dictus sit et non Achor siue Achar.</p
 <p>Eglom, quae et Odollam, in tribu Iudae, cuius regem nomine Dabir
 interfecit Iesus. est autem nunc uilla pergrandis in duodecimo ab Eleutheropoli
 lapide contra orientem, de qua et supra diximus.</p>
-<note type="marginal">ACH</note> <p>|| Inemec, pro quo Aquila et Symmachus transtulerunt in valle.</p> <note type="marginal">133</note>
-<note type="marginal">AC</note> <p>|| Esrom, quae et Asor, iuxta eremum in tribu Iudae, de qua et supra <note type="marginal">118</note>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="133"/> Inemec, pro quo Aquila et Symmachus transtulerunt in valle.</p> 
+<note type="marginal">AC</note> <p><milestone unit="altnumbering" n="118"/> Esrom, quae et Asor, iuxta eremum in tribu Iudae, de qua et supra 
 dictum est.</p>
 <p>Enacim. et in hac interfecit Iesus Enacim gigantes de regione
 montana in Chebron. sed mihi uidetur non esse nomen loci Enacim, sed
@@ -1531,7 +1532,7 @@ putat C 21 nominatam C</note>
 septentrionem in uicesimo ab Aelia miliario.</p>
 <p>Edre in tribu Iudae.</p>
 <p>Ethnan in tribu Iudae.</p>
-<lb n="5"/> <p>|| Ebeziuthia in tribu Iudae.</p> <note type="marginal">119</note>
+<lb n="5"/> <p><milestone unit="altnumbering" n="119"/> Ebeziuthia in tribu Iudae.</p> 
 <p>Euim in tribu Iudae.</p>
 <p>Eltholath in tribu Iudae.</p>
 <p>Ereb in tribu Iudae. est hodieque uilla in Daroma, id est ad
@@ -1571,11 +1572,11 @@ Symeonis siue Iudae.</p>
 in interiori Daroma iuxta Malatha.</p>
 <lb n="5"/> <p>Ethtba in tribu Symeonis.</p>
 <p>Elcath in tribu Aser. Leuitis ciuitas separata.</p>
-<note type="marginal">ACH</note> <p>|| Icoc sortis Nefthalim in confinio trium tribuum, id est in tribu <note type="marginal">134</note>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="134"/> Icoc sortis Nefthalim in confinio trium tribuum, id est in tribu 
 Zabulon ad australem partem. in tribu Aser ad occidentem, porro in
 tribu Iadae ad solis ortum.</p>
-<note type="marginal">AC</note> <p>|| Edrai in tribu Nefthalirn.</p> <note type="marginal">119</note>
-<p>|| Esthaol in tribu Dan, ubi mortuus est Samson, quae || usque hodie <note type="marginal">120</note>
+<note type="marginal">AC</note> <p><milestone unit="altnumbering" n="119"/> Edrai in tribu Nefthalirn.</p> 
+<p><milestone unit="altnumbering" n="120"/> Esthaol in tribu Dan, ubi mortuus est Samson, quae || usque hodie 
 ostenditur in decimo Eleutberopoleos miliario contra aquilonem pergentibus
 Nicopolim.</p>
 <p>Eltheco in tribu Dan separata Leuitis.</p>
@@ -1584,11 +1585,11 @@ Nicopolim.</p>
 miliario contra meridiem in Daroma.</p>
 <p>Emathdor in tribu Nefthalum, separata Leuitis.</p>
 <p>Emath terminus Allofylorum in regione Damasci.</p>
-<note type="marginal">ACH</note> <p>|| Inlechi, pro quo Aquila interpretatur in maxilla.</p> <note type="marginal">134</note>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="134"/> Inlechi, pro quo Aquila interpretatur in maxilla.</p> 
 <p>Inaczeb, pro quo Symmachus transtulit in ualle Zeb.</p></div>
  
  <div type="textpart" subtype="source">
-<note type="marginal">AC</note> <head>|| De Regnorum libris.</head> <note type="marginal">120</note>
+<note type="marginal">AC</note> <head><milestone unit="altnumbering" n="120"/> De Regnorum libris.</head> 
 <p>Ergab, ad quem locum Ionathan filius Saul ueru dirigit, militaribus
 iaculis se exercens. pro quo Aquila et Symmachus interpretati sunt
 <lb n="25"/> lapidem, licet in alio loco Symmachus pro hoc τὴν περίμετρον dixerit.</p>
@@ -1612,12 +1613,12 @@ quaestionum plenius disputaui.</p>
 scribitur, quod nobis consonat Emath magna, diximus de hac et supra
 quid nobis uideretur, hanc esse Epiphaniam iuxta Emesam, quae usque
 hodie Syro sermone sie dicitur.</p>
-<p>Eser urbs quam aedificauit Salomon.</p> <note type="marginal">121</note>
+<p>Eser urbs quam aedificauit Salomon.</p> <milestone unit="altnumbering" n="121"/>
 <note type="marginal">ACH</note> <p>ΙΙ Inachim siue Inbachim, pro quo Aquila et Symma ||chus transtulerunt <note type="marginal">134/5</note>
 in fletu. meminit huius et Michaeas profeta.</p>
 <p>Inaraba, pro quo Aquila transtulit in humili uel piano, porro Symmachus
 in campestri.</p>
-<note type="marginal">AC</note> <p>|| Elcesede quo loco et Naum profeta fuit: nam appellatur Elcesaeus.</p> <note type="marginal">131</note>
+<note type="marginal">AC</note> <p><milestone unit="altnumbering" n="131"/> Elcesede quo loco et Naum profeta fuit: nam appellatur Elcesaeus.</p> 
 <lb n="20"/> <p>Emacim, quod Symmachus et Aquila transtulerunt uallium.</p></div>
 
 <div type="textpart" subtype="source">
@@ -1644,7 +1645,7 @@ per extensum legamus elementum, quod Graece dicitur Eta.</p></div></div>
      
 <div type="textpart" subtype="section" n="6">
 <div type="textpart" subtype="source">
-<note type="marginal">ACH</note> <head>|| De Genesi.</head> <note type="marginal">159</note>
+<note type="marginal">ACH</note> <head><milestone unit="altnumbering" n="159"/> De Genesi.</head> 
 <p>Zafoim regio principum Edom in terra quae nunc appellatur
 <lb n="5"/> Gebalena.</p></div>
 
@@ -1684,7 +1685,7 @@ Roscel.</p></div></div>
      
 <div type="textpart" subtype="section" n="7">
 <note type="marginal">AC</note> <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">121</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="121"/>
 <p>Elath regio principum Edom et ciuitas Esau in decimo a Petra
 miliario contra orientem.</p>
 <lb n="10"/> <p>Eroum ciuitas in Aegypto, ad quam Iosef occurrit patri suo Iacob.</p>
@@ -1700,7 +1701,7 @@ Etham castra filiorum Israel in deserto, qnae appellatur et Buthan.</p></div>
 diximus et supra de Aendor, quae est iuxta oppidum Naim,
 in cuius portis saluator filiura uiduae suscitauit, est autem circa
 <lb n="20"/> Scythopolim.</p>
-<p>Enganni in tribu Issachar, ciuitas separata Leuitis. sed || et alia <note type="marginal">122</note>
+<p>Enganni in tribu Issachar, ciuitas separata Leuitis. sed <milestone unit="altnumbering" n="122"/> et alia 
 quaedam ciuitas Enganna dicitur circa Gerasam trans Iordanem.</p>
 <p>Enada in tribu Issachar. est autem usque hodie quaedam uilla
 nomine Enadab pergentibus de Eleutheropoli Aeliam quasi in decimo
@@ -1728,9 +1729,9 @@ uergens a Theman et Palmetis, quae ceteri interpretes ediderunt Thamar.</p></div
  
 <div type="textpart" subtype="section" n="8">
 <note type="marginal">ACH||</note> <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">155</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="155"/>
 <p>Theman regio principum Edom in terra Gebalitica, a Theman filio
-<lb n="15"/> Elifaz filii Esau sortita uocabulum. sed et usque hodie est uilla Theman <lb n="156"/>
+<lb n="15"/> Elifaz filii Esau sortita uocabulum. sed et usque hodie est uilla Theman <milestone unit="altnumbering" n="156"/>
 nomine distans ab urbe Petra quinque milibus, ubi et Romanorum
 militum praesidium sedet. de quo loco fuit Elifaz rex Themanorum.
 unus quoque filiorum Ismael appellabatur Theman. sciendum autem
@@ -1769,7 +1770,7 @@ unde et Arnos profeta fuit.</p>
 <p>Thersa. et haue cum rege suo cepit Iesus.</p>
 <lb n="20"/> <p>Therama in tribu Beniamin.</p>
 <p>Tholad in tribu Iudae siue Symeonis.</p>
-<p>Thabor terminus Zabulon. est autem mons in medio || Galilaeae<note type="marginal">157</note>
+<p>Thabor terminus Zabulon. est autem mons in medio <milestone unit="altnumbering" n="157"/> Galilaeae
 campo, mira rotunditate, sublimis, distans a Diocaesarea decem milibus
 contra orientalem plagam, qui confmium quoque inter tribum Issachar
 <lb n="25"/> et Nefthalim fuit.</p>
@@ -1788,11 +1789,11 @@ S. 111, 20 ff.</note>
 <note type="marginal">ACH</note> <p>Thamnathsara ciuitas Iesu filii Naue in monte sita, de qua et supra
 sub nomine Thamnae diximus, in qua usque in praesentem diem sepulcrum
 eius ostenditur. in tribu Dan.</p>
-<p>|| Mare salinarum quod vocatur mortuum sive asfalti. id est bituminis, <note type="marginal">139</note>
+<p><milestone unit="altnumbering" n="139"/> Mare salinarum quod vocatur mortuum sive asfalti. id est bituminis, 
 <lb n="5"/> inter Iericho et Zoarani.</p></div>
  
  <div type="textpart" subtype="source">
-<head>|| De libro Iudicum.</head> <note type="marginal">157</note>
+<head><milestone unit="altnumbering" n="157"/> De libro Iudicum.</head> 
 <p>Thaanach ciuitas iuxta quam Deborra aduersus Sisaram dimicauit.
 in tribu Manasse, separata Leuitis, quam tenere non potuit, pristinis
 cultoribus nequaquam eiectis. est autem nunc uilla pergrandis, distans
@@ -1818,7 +1819,7 @@ sentitur, siquidem in eo loco ubi apud Septuaginta interpretes legimus</p>
 
 <pb n="v.3.pt.1.p.103"/>
 <note type="marginal">ACH</note> <p>Carthaginem, in Hebraeo scriptum habet Tharsis. nonnulli Indiam putauerunt.
-et || de hoc tarn in libro epistularum quas ad Marcellam scripsimus, <lb n="15"/>
+et <milestone unit="altnumbering" n="15"/> de hoc tarn in libro epistularum quas ad Marcellam scripsimus, 
 quam in libris Hebraicarum quaestionum plenius dictum est.</p>
 <p>Tharsa ubi Asa rex Israel fuit.</p>
 <lb n="5"/> <p>Thersila uncle fuit Manaein. usque hodie est uiculus Samaritanorum
@@ -1837,12 +1838,12 @@ agrum Acheldemach.</p> </div></div>
 
 <div type="textpart" subtype="section" n="9">
 <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">130</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="130"/>
 <p>Iaboc fluuius, quo transmisso luctatus est Iacob aduersus eum qui
 <lb n="20"/> sibi apparuerat, uocatusque Israel, fluit autem inter Amman, hoc est
 Filadelnam, et Gerasam in quarto eius miliario, et ultra procedens Ior-
 dani fluuio commiscetur.</p>
-<p>Idumaea regio Esau, quae ex eo quod ille Edom uoca batur nomen <note type="marginal">131</note>
+<p>Idumaea regio Esau, quae ex eo quod ille Edom uoca batur nomen <milestone unit="altnumbering" n="131"/>
 aeeepit. est autem circa urbem Petram, quae nunc dicitur Gebalene.</p>
 <note type="footnote">2 Hier. ep. 37, 2 ad Marcellam: Quaeris si Tharsis lapis chrysolithus sit . . .
 quare . . . Salomon et Iosaphat in regnorum libris naues habuerint, quae de Tharsis
@@ -1881,7 +1882,7 @@ iuxta Iericho mortuo commixtus mari nomen amittit.</p>
 <p>Ietabatha locus in deserto, ubi torrentes aquarum demonstrantur.</p>
 <lb n="20"/> <p>Iericho urbs quam Iordane transgresso subuertit Iesus rege illius
 interfecto, pro qua extruxit aliam Ozam de Bethel ex tribus Efraim,
-quam dominus noster atque saluator sua || praesentia illustrare dignatus <note type="marginal">132</note>
+quam dominus noster atque saluator sua <milestone unit="altnumbering" n="132"/> praesentia illustrare dignatus 
 est. sed et haec eo tempore quo Ierusalem oppugnabatur a Romanis
 propter perfidiam ciuium capta atque destructa est. pro qua tertia
 <lb n="25"/> aedificata est ciuitas, quae hodieque permanet. et ostenduntur utriusque
@@ -1916,7 +1917,7 @@ primo pro Isimuth Aquila interpretatur dissipatam; Symmachus uero
 <p>Iagur iu tribu Iudae.</p>
 <p>Iermus in tribu Iudae. est usque hodie uilla Iermucha in decimo
 ab Eleutheropoli lapide ascendentibus Aeliam.</p>
-<lb n="25"/> <p>|| Iechthael in tribu Iudae.</p> <note type="marginal">133</note>
+<lb n="25"/> <p><milestone unit="altnumbering" n="133"/> Iechthael in tribu Iudae.</p> 
 <p>Iecthan in tribu Iudae.</p>
 <note type="footnote">2 ff. vgl. Hier. ep. 108, 9</note>
 <note type="footnote">25 Iecthael A(C) Iethael (B) 26 l, Iefthan</note>
@@ -1947,7 +1948,7 @@ Neaspoleos contra orientem.</p>
 <p>Ierfel in tribu Beniamin.</p>
 <p>Iecnal in tribu Zabulon, Leuitis ciuitas separata.</p>
 <lb n="25"/> <p>Iafthie in tribu Zabulon. nunc usque Ioppe uocatur ascensus Iafo.
-sed et oppidum Sycaminum nomine de Cae||sarea Ptolomaidem pergentibus <note type="marginal">134</note>
+sed et oppidum Sycaminum nomine de Cae<milestone unit="altnumbering" n="134"/>sarea Ptolomaidem pergentibus 
 super mare propter montem Carmelum Efa dicitur.</p>
 <note type="footnote">10 ff. vgl. Hier, comm. in Hos 1, 3f.: Iezrael. est autem ciuitas metropolis
 deeem tribuuro, in qua interfectus est Naboth</note>
@@ -1981,7 +1982,7 @@ Thabor. est autem mons Thabor in campo maximo ad orientalem
 plagam Legionis.</p>
 <p>Iecthoel nomen Petrae in Regnorum libris.</p>
 <p>Ietaba urbs antiqua Iudae.</p>
-<lb n="25"/> <p>Ioppe oppidum Palaestinae maritimum in tribu Dan.</p> <note type="marginal">135</note></div>
+<lb n="25"/> <p>Ioppe oppidum Palaestinae maritimum in tribu Dan.</p> <milestone unit="altnumbering" n="135"/></div>
 <div type="textpart" subtype="source">
 <head>De Euangeliis.</head>
 <p>Ituraea et Trachonitis regio, cuius tetrarcha fuit Filippus, sicut in
@@ -1996,7 +1997,7 @@ comm. in Matth 16, 13</note>
 <pb n="v.3.pt.1.p.113"/>
 <div type="textpart" subtype="section" n="10">
  <div type="textpart" subtype="source">
-<note type="marginal">ACH||</note> <head> De Pentateucho.</head> <note type="marginal">108</note>
+<note type="marginal">ACH<milestone unit="altnumbering" n="108"/></note> <head> De Pentateucho.</head> 
 <p>Carnaim. Astaroth Carnaim. nunc uicus est grandis in angulo
 Batanaeae, et appellatur Carnaea trans fluenta Iordanis, traduntque ibi
 fuisse domum lob. sed et supra meminimus Carnaeae uiculi in nono
@@ -2013,7 +2014,7 @@ appellatur Coraiatha in decimo miliario supradictae urbis contra occidentalem
 <lb n="15"/> plagam, uicinus eius loci, qui appellatur Bare.</p>
 <p>Cariatharbe, id est uillula quattuor, quae et Chebron: de qua iam
 supra diximus.</p>
-<p>Canath uicus Arabiae, qui nunc Canatha dicitur, quem cum cepisset <note type="marginal">109</note>
+<p>Canath uicus Arabiae, qui nunc Canatha dicitur, quem cum cepisset <milestone unit="altnumbering" n="109"/>
 Xabau, appellauit Xaboth. fuit autem in tribu Manasse in regione
 <lb n="20"/> Trachonitide iuxta Bostram.</p>
 <note type="footnote">6 ff. vgl. Hier. comm. in Ez 38, 23 ff.: Cades autem, quae in libro Iosue appellatur
@@ -2059,7 +2060,7 @@ Sobal appellatur Cariathiarim.</p>
 
 
 <pb n="v.3.pt.1.p.117"/>
-<note type="marginal">ACH</note> <p>|| Cartha in tribu Zabulon, separata Leaitis.</p> <lb n="110"/>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="110"/> Cartha in tribu Zabulon, separata Leaitis.</p> 
 <p>Catta in tribu Zabulon, ciuitas separata Leuitis.</p>
 <p>Cana usque ad Sidonem maiorem, est quippe et altera minor.
 cuius distinctionem rnaior haec dicitur. fuit autem Cana in tribu Aser,
@@ -2095,7 +2096,7 @@ est.</p>
 <head>De Regnorum libris.</head>
 <p>Ceni regio Fylistiirn.</p>
 <p>Carmelus, ubi Nabal quondam Carmelius fuit, et nunc uilla est
-<lb n="5"/> Chermela nomine, in decimo lapide oppidi Chebron, || uergens ad orientalem <note type="marginal">111</note>
+<lb n="5"/> Chermela nomine, in decimo lapide oppidi Chebron, <milestone unit="altnumbering" n="111"/> uergens ad orientalem 
 plagam, ubi et Romanuni praesidium positum est.</p>
 <p>Cedron. appellatur torrens siue uallis Cedron iuxta Ierusalem ad
 orientalem plagam, cuius et Ioannis euangelista meminit.</p>
@@ -2137,7 +2138,7 @@ habetur, scribendurn pariter ac legendum.</p></div></div>
  
 <div type="textpart" subtype="section" n="11">
 <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">135</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="135"/>
 <p>Lasa terminus Chananaeorum circa Sodomam.</p>
 <p>Luza in tribu Beniamin. quam postea Iacob cognominanit Bethel.
 <lb n="10"/> est autem usque hodie uilla in sinistra parte uiae de Neapoli pergentibus
@@ -2167,7 +2168,7 @@ interfecto. nunc est uilla in regione Eleutheropolitana qnae appellatur
 <p>Lapis Boen filiorum Ruben. terminus tribus Iudae.</p>
 <p>Laboth in tribu Iudae.</p>
 <p>Lamas in tribu Iudae.</p>
-<lb n="5"/> <p>|| Labaoth in tribu Symeonis.</p> <note type="marginal">136</note>
+<lb n="5"/> <p><milestone unit="altnumbering" n="136"/> Labaoth in tribu Symeonis.</p> 
 <p>Labanath in tribu Aser.</p>
 <p>Lacum terminus Nefthalim.</p></div>
 
@@ -2207,7 +2208,7 @@ Isaac et Iacob, de qua et supra diximus. Mambre autem uocabatur et
 <lb n="5"/> unus amicorum Abraam.</p>
 <p>Madiam urbs ab uno filiorum Abraam ex Chettura sie uocata. est
 autem trans Arabiam ad meridiem in deserto Saracenorum contra
-orientem maris rubri, unde uocantur || Madianaei et Madianaea regio. <note type="marginal">137</note>
+orientem maris rubri, unde uocantur <milestone unit="altnumbering" n="137"/> Madianaei et Madianaea regio. 
 legimus et filias lobab soceri Moysi filias Madiam. sed et alia ciuitas
 <lb n="10"/> est ὁμώνυμος eius iuxta Arnonem et Areopolim, cuius nunc ruinae tantummodo
 demonstrantur.</p>
@@ -2248,7 +2249,7 @@ deserto, ubi post esum carnium ascendit ira dei super eos.</p>
 duodecimo procul miliario contra orientalern plagam Medabus.</p>
 <p>Misor ciuitas Og regis Basan. significat autem Misor loca plana
 atque campestria.</p>
-<lb n="15"/> <p>|| Machanarath terminus urbis Amman, quae et Filadelfia dicitur.</p> <note type="marginal">138</note>
+<lb n="15"/> <p><milestone unit="altnumbering" n="138"/> Machanarath terminus urbis Amman, quae et Filadelfia dicitur.</p> 
 <p>Madbares, quam nos uocamus eremum, hanc Hebraei Madbarim
 nominant.</p>
 <p>Misaida filiorum Iacim locus in solitudine, in quo obiit Aaron.</p></div>
@@ -2281,7 +2282,7 @@ maris interpretati sunt.</p>
 est autem ciuitas tribus Ruben, separata Leuitis in regione Gebalena.</p>
 <p>Medaba usque hodie urbs Arabiae antiquum nomen retinens iuxta
 Esebon.</p>
-<lb n="20"/> <p>|| Mefaath in tribu Beniamia. sed et alia est trans Iordanem in qua <note type="marginal">139</note>
+<lb n="20"/> <p><milestone unit="altnumbering" n="139"/> Mefaath in tribu Beniamia. sed et alia est trans Iordanem in qua 
 praesidium Romanorum militum sedet propter uicinam solitudinem.</p>
 <note type="footnote">12 vgl. Ζ. 5 18 f. vgl. Hier. comm. in Jes 15, 2</note>
 <note type="footnote">20 Mafaath ΑΗ 21 uiciniam solitudinis C(H)
@@ -2313,7 +2314,7 @@ quinto miliario Dorae pergentibus Ptolomaidem.</p></div>
 <div type="textpart" subtype="source">
 <head>De libro Iudicum.</head>
 <p>Mosfethaim. pro quo Aquila interpretatur sortium, Symmachus uiciniarum.</p>
-<lb n="25"/> <p>|| More nomen est collis, de quo in libris Hebraicarum quaestionum <note type="marginal">140</note>
+<lb n="25"/> <p><milestone unit="altnumbering" n="140"/> More nomen est collis, de quo in libris Hebraicarum quaestionum 
 plenius disputatur.</p>
 <note type="footnote">1 Messafa Α(C) Masafa H | Masfas Α Mesafa C 2 septentrionem] + est et
 alia Vallarsi 4 Maanaim CΗ 20 et &lt; C 32 Mosfethain Α Mosfetham C |
@@ -2350,13 +2351,13 @@ id est trans uel de contra.</p>
 <lb n="25"/> <p>Maces urbs unius principum Salomonis.</p>
 <note type="footnote">15 S. 72, 2 18 ff. vgl. Vallarsi zu d. St.</note>
 <note type="footnote">1 Manith Va 6 è AH*H1 14 transtulerunt C. 15 salinarum C
-20 Mapser Α 21 trans] l. &lt;de&gt; trans?</note>
+20 Mapser Α 21 trans] l. (de) trans?</note>
 
 <pb n="v.3.pt.1.p.135"/>
 <note type="marginal">ACH</note> <p>Mello ciuitas quam aedificauit Salomon. porro Symmachus et Theodotion
 adimpletionem transtulerunt. et de hac in libris Hebraicarum quaestionum
 plenius dicitur.</p>
-<p>|| Maedam ciuitas quam aedificauit Salomon.</p> <lb n="141"/>
+<p><milestone unit="altnumbering" n="141"/> Maedam ciuitas quam aedificauit Salomon.</p> 
 <lb n="5"/> <p>Memfis ciuitas Aegypti. cuius Osee et Iezechiel et Ieremias profetae
 recordantur. sed et Iudaei qui cum Ieremia de Ierosolymis profugi
 exierant, habitauerunt in Memfis.</p>
@@ -2399,7 +2400,7 @@ angulo Arabiae, quam nunc corrupte Neneuen uocant.</p>
 <lb n="5"/> <p>Nabau, quod Hebraice dicitur Nebo, mons super Iordanem contra
 Iericho in terra Moab, ubi Moyses mortuus est. et usque hodie ostenditur
 in sexto miliario urbis Esbus contra orientalem plagam.</p>
-<p>|| Nabo ciuitas filiorum Ruben in regione Galaad, cuius meminit <lb n="142"/>
+<p><milestone unit="altnumbering" n="142"/> Nabo ciuitas filiorum Ruben in regione Galaad, cuius meminit 
 Esaias in uisione contra Moab et Ieremias. est uero et cuiusdam uiri
 <lb n="10"/> uocabulum Nabau, qui Canath et ceteros uicos qui circa eam erant ex
 suo nomine nuncupauit Naboth. sed et usque hodie desertus ostenditur
@@ -2427,7 +2428,7 @@ Hier. comm. in Amos 2. 11 ff.: ad australem partem, quod interpretatur Theman.
 quae prouincia non solum Theman, sed et Darom et Nageb dicitur, eo quod eurum
 et austrum africumque respiciat</note>
 <note type="footnote">3 correpte Va | Neneuen La Neue Α Neuen C Nineuen H 5 supra Η
-7 occidentalem Vallarsi 16 appelletur Η 19 maritimam] + &lt;Dor&gt;? 24 l.
+7 occidentalem Vallarsi 16 appelletur Η 19 maritimam] + (Dor)? 24 l.
 Nesib 27 Narath Α Naarta C Naurath Η</note>
 
 <pb n="v.3.pt.1.p.139"/>
@@ -2443,7 +2444,7 @@ in regione Batanaea uiculus nomine Neila.</p>
 separata, quam postea legimus Saulis furore subuersam.</p>
 <p>Nemra ciuitas tribus Ruben in terra Galaad. est usque ad praesens
 <lb n="10"/> uicus grandis Namara in regione Batanaea.</p>
-<p>|| De Regnorum libris.</p> <lb n="143"/>
+<p><milestone unit="altnumbering" n="143"/> De Regnorum libris.</p> 
 <p>Nauioth locus in Rama, ubi Dauid sedit. et de hoc in libris Herbraicarum
 quaestionum diximus.</p>
 <p>Nachon. area Nachon, pro quo Aquila interpretatur area
@@ -2477,20 +2478,20 @@ meridiem iuxta Aendor.</p></div></div>
      
 <div type="textpart" subtype="section" n="14">
 <div type="textpart" subtype="source">
-<head>De libro ludicum.</head> <lb n="158"/>
+<head>De libro ludicum.</head> <milestone unit="altnumbering" n="158"/>
 <p>Xil in tribu Iudae.</p></div></div>
      
 <div type="textpart" subtype="section" n="15">
 <div type="textpart" subtype="source">
-<head>De Genesi.</head> <lb n="143"/>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="143"/>
 <p>Orech ciuitas regni Nemrod in Babylone.</p>
-<p>Ur Chaldaeorum ubi mortuus est Aran frater Abraae, cuius hodieque, <lb n="158"/>
+<p>Ur Chaldaeorum ubi mortuus est Aran frater Abraae, cuius hodieque, <milestone unit="altnumbering" n="158"/>
 sicut Iosefus refert, tumulus ostenditur. et super hoc quid nobis
 itur, in libris Hebraicarum quaestionum diximus.</p>
 <p>Ulammaus, pro quo in Hebraeo scriptum habet Luza. eadem est
 <lb n="15"/> autem quae et Bethel, sicut supra dixi. sed et quaedam uilla nomine.</p>
 <p>Ullama in duodecimo Diocaesareae lapide ostenditur contra solis ortum</p>
-<p>||Olibama ciuitas principum Edom.</p> <lb n="143"/>
+<p><milestone unit="altnumbering" n="143"/>Olibama ciuitas principum Edom.</p> 
 <p>Odollam. diximus de hac et supra. cuius meminit Esaias.</p></div>
 
 <div type="textpart" subtype="source">
@@ -2499,7 +2500,7 @@ itur, in libris Hebraicarum quaestionum diximus.</p>
 Socchoth iuxta desertum, quando de Aegypto sunt profecti.</p></div>
 
 <div type="textpart" subtype="source">
-<head>De libro Iesu.</head> <lb n="144"/>
+<head>De libro Iesu.</head> <milestone unit="altnumbering" n="144"/>
 <p>Ofer. et hanc cepit lesus rege ipsius interfecto.</p>
 <note type="footnote">11 ff. Hier, quaest in Gen S. 18, 30 ff.: pro eo quod legimus in regione Chaldaeorum,
 in hebraeo habet: in uv Casdim, id est in igne Chaldaeorum etc.</note>
@@ -2511,12 +2512,12 @@ in hebraeo habet: in uv Casdim, id est in igne Chaldaeorum etc.</note>
 Ofra. uia Ofra ducens ad terram Soal.</p>
 <p>Hucusqtte per Ο breuem litteram legimus, exin per extensum legamus
 elemenlum.</p>
-<lb n="5"/> <p>|| Us, unde fuit lob de regione Ausitide. sed et unus de posteris <lb n="158"/>
+<lb n="5"/> <p><milestone unit="altnumbering" n="158"/> Us, unde fuit lob de regione Ausitide. sed et unus de posteris 
 Esau appellabatur Us, de quo in libris Hebraicarum quaestionum diximus.</p></div></div>
 
 <div type="textpart" subtype="section" n="16">
 <div type="textpart" subtype="source">
-<head>De Pentateucho Moysi.</head> <lb n="145"/>
+<head>De Pentateucho Moysi.</head> <milestone unit="altnumbering" n="145"/>
 <p>Petra eiuitas Arabiae in terra Edom, quae cognominata est Iecthael,
 et a Syris Recem dicitur.</p></div></div>
  
@@ -2553,7 +2554,7 @@ cum Victorias Martianay Vallarsi</note>
 <p>Ramoth in tribu Gad, ciuitas sacerdotalis et fugitiuorum in terra
 <lb n="5"/> Galaaditide. nunc autem est uicus in quinto decirno miliario Filadelfiae
 contra orientem.</p>
-<p>|| Recem. haec est Petra ciuitas Arahiae, in qua regnauit Rocom <lb n="146"/>
+<p><milestone unit="altnumbering" n="146"/> Recem. haec est Petra ciuitas Arahiae, in qua regnauit Rocom 
 quem interfecerunt filii Israel, dicitur autem ipse rex quoque Madiam.</p></div>
 
 <div type="textpart" subtype="source">
@@ -2591,7 +2592,7 @@ III. 10</note></div>
 <p>Rachel, et ad hanc Dauid spoliorum partem misit.</p>
 <p>Remmoth Galaad uilla trans Iordanem iuxta fluuium Iaboc. diximus
 <lb n="5"/>de hac et supra.</p>
-<p>Rabbath ciuitas regni Aramon, nunc Filadelfia. cuius meminit <note type="marginal">147</note>
+<p>Rabbath ciuitas regni Aramon, nunc Filadelfia. cuius meminit <milestone unit="altnumbering" n="147"/>
 Ιeremias.</p>
 <p>Roos quam pertransiuit Dauid, pro qua Aquila et Symmachus interpretantur
 arcem.</p>
@@ -2625,7 +2626,7 @@ lestionum plenius dicitur.</p>
 <p>Rhinocorura ciuitas Aegypti cuius meminit Esaias. sciendum av
 quod hoc uocabulwm in libris Hebraicis non habetur, sed α Septuagi
 interpretibus propter notitiam loci additum est.</p>
-<p>Quod in libro Hebraicorum nominum diximus, hoc etiam || nunc in S <lb n="148"/>
+<p>Quod in libro Hebraicorum nominum diximus, hoc etiam <milestone unit="altnumbering" n="148"/> nunc in S 
 litterae uidetur titulo praenotandum, apud Hebraeos tria esse S, hoc
 Samech et Sade et Sin. quae cum apud Graecos et Latinos sono simili
 <lb n="10"/> proferantur, in sua lingua aliler atque aliter resonant. unde acoidii ut
@@ -2670,7 +2671,7 @@ Sennaar. unde fuit Amarfal, qui aduersus reges Sodomorum bellum
 <p>Sodoma ciuitas impiorum diuino igne consumpta iuxta mare mortuum.</p>
 <p>Seboim. et haec ciuitas impiorum in aeternos ein eres dissoluta
 iuxta urbem quondam Sodomam.</p>
-<p>| Sofera mons orientis in India, iuxta quem habitauerunt filii Iectan <lb n="149"/>
+<p><milestone unit="altnumbering" n="149"/> Sofera mons orientis in India, iuxta quem habitauerunt filii Iectan 
 <lb n="15"/> filii Eber, quos Iosefus refert a Cofene flumine et Indiae regionibus
 usque ad id locorum peruenisse, ubi appellatur regio Ieria. sed et classis
 Salomonis per triennium hinc quaedam commercia deportabat.</p>
@@ -2708,7 +2709,7 @@ diximus.</p>
 <lb n="20"/> Mesopotamia, qui lingua Hebraica appellatur Socchoth.</p></div>
 
 <div type="textpart" subtype="source">
-<head>De Exodo.</head> <lb n="150"/>
+<head>De Exodo.</head> <milestone unit="altnumbering" n="150"/>
 <p>Socchoth. prima mansio filiorum Israel in deserto, postquam de
 Aegypto sunt profecti, antequam mare transirent rubrum.</p>
 <p>Sin desertum inter mare rubrum et solitudinem Sina. nam de deserto
@@ -2753,7 +2754,7 @@ uertice eius ciuitatem. quam ex nomine domini appellauerit Semeron.</p>
 19 Semeron ΑΗ vgl. Ζ. 22 f.</note>
 
 <pb n="v.3.pt.1.p.157"/>
-<note type="marginal">ACH</note> <p>|| Seira. et hanc cepit Iesus.</p> <lb n="151"/>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="151"/> Seira. et hanc cepit Iesus.</p> 
 <p>Selcha. ciuitas in regione Basanitide.</p>
 <p>Sior. locus contra faciem Aegypti. sed et hodie ostenditur uilla
 nomine Sior inter Aeliam et Eleutheropolim in tribu Iudae. super hoc
@@ -2780,7 +2781,7 @@ tribu Iudae.</p>
 <p>Soccho. de qua et supra dictum est. dicuntur autem Samaritani
 qui de Babylone profecti sunt, hunc uiculum condidisse.</p>
 <p>Scacha in tribu Iudae.</p>
-<p>Selo in tribu Efraim, in quo loco arca testamenti mansit et tabernaculum <lb n="152"/>
+<p>Selo in tribu Efraim, in quo loco arca testamenti mansit et tabernaculum <milestone unit="altnumbering" n="152"/>
 domini usque ad tempora Samuelis. est autem in decimo
 <lb n="30"/> miliario Neaspoleos in regione Acrabbitena. sed et Iudae patriarchae
 filium Selom appellatum legimus.</p>
@@ -2819,7 +2820,7 @@ finibus Sebastenis nomine Salaba.</p>
 <lb n="25"/> <div type="textpart" subtype="source">
 <head>De Iudicum libro.</head>
 <p>Sirotha quo confugit iudex Aod. diximus et supra de Seira.</p>
-<p>Sur Oreb, quod Aquila interpretatur petra Oreb.</p> <lb n="153"/>
+<p>Sur Oreb, quod Aquila interpretatur petra Oreb.</p> <milestone unit="altnumbering" n="153"/>
 <p>Selmon mons quem conscendit Abimelech aduersus Sicimam
 dimicans.</p>
 <note type="footnote">5 Setneri Α 8 Sarith Va 9 Sainis C Samus Η 17 Sennanim Va
@@ -2853,7 +2854,7 @@ Abenner.</p>
 <p>Saba ciuitas regalis Aethiopiae, quam Iosefus a Cambyse rege
 Meroen cognominatam ex sororis uocabulo refert.</p>
 <p>Sela ubi percussus est Ioas.</p> 
-<lb n="25"/> <p>Saffaruaim de quibus locis Assyrii transmigrantes ha || bitauerunt in <lb n="154"/>
+ <lb n="25"/> <p>Saffaruaim de quibus locis Assyrii transmigrantes habitauerunt <milestone unit="altnumbering" n="154"/> in 
 Samaria, et ab ipsis Samaritanorum gens sumpsit exordium. meminit
 horum et Esaias.</p>
 <p>Sademoth ubi Iosias rex idolorum signa combussit.</p>
@@ -2908,7 +2909,7 @@ est.</p></div></div>
     
 <div type="textpart" subtype="section" n="19">
 <lb n="5"/> <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">155</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="155"/>
 <p>Tigris fluuius de paradiso exiens iuxta scripturae fidem, pergensque
 contra Assyrios, et post multos circuitus, ut uult Iosefus, in mare rubrum
 influens. uocatur autem hoc nomine propter uelocitatem instar
@@ -2951,7 +2952,7 @@ scribuntur, cum aspiratione legere debemus.</p></div></div>
  
 <div type="textpart" subtype="section" n="20">
 <note type="marginal">AC</note> <div type="textpart" subtype="source">
-<head>De Genesi.</head> <note type="marginal">122</note>
+<head>De Genesi.</head> <milestone unit="altnumbering" n="122"/>
 <p>Fison, quod interpretatur caterua; fluuius, quem nostri Gangen uocant,
 <lb n="10"/> de paradiso exiens et pergens ad Indiae regiones, post quas erumpit
 in pelagus. dicit autein scriptura circumiri ab hoc uniuersam regionem
@@ -2961,12 +2962,12 @@ uagi errant. per hoc iter fecerunt filii lsrael, cum de monte
 <lb n="15"/> Sina castra mouissent. est ergo, ut diximus, trans Arabiam contra
 australem plagam, et distat ab Aila contra orientem itinere trium dierum.
 in deserto autem Faran scriptura commemorat habitasse Ismaelem. unde
-et Ismaelitae, qui nunc Saraceni. legimus quoque Chodollagomor <note type="marginal">123</note>
+et Ismaelitae, qui nunc Saraceni. legimus quoque Chodollagomor <milestone unit="altnumbering" n="123"/>
 regem percussisse eos qui erant in deserto Faran.
 <lb n="20"/> Fylistiim, quae nunc dicitur Ascalon, et circa eam regio Palaestinae.</p>
-<note type="marginal">ACH</note> <p>|| Puteus iuramenti quem fodit Abraam, id est Bersabee. in regione <note type="marginal">144</note>
+<note type="marginal">ACH</note> <p><milestone unit="altnumbering" n="144"/> Puteus iuramenti quem fodit Abraam, id est Bersabee. in regione 
 Geraritica. diximus de hoc et supra.</p>
-<p>| Puteus uisionis in deserto apud quem habitauit Isaac.</p> <note type="marginal">145</note>
+<p><milestone unit="altnumbering" n="145"/> Puteus uisionis in deserto apud quem habitauit Isaac.</p> 
 <p>Puteus iudicii usque in praesentem diem in regione Geraritica.</p>
 <lb n="25"/> <p>uocatur autem uilla nomine Berdan, quod Latine dicitur puteus iudicii.</p>
 <note type="footnote">9 ff. vgl. Hier, quaest. in Gen S. 5, 9 f.: Fison. hunc esse Indiae fluuium
@@ -2978,7 +2979,7 @@ est locus monti Sina.</note>
 <note type="marginal">ACH</note> <p>Puteus mramenti ubi iurauerunt Isaac et Abimelech, uocaturque
 oppidum Isaac. sunt autem et alii plures putei in sanctis scripturis,
 qui hodieque in regione Geraritica et iuxta Ascalonem demonstrantur.</p>
-<note type="marginal">AC</note> <p>|| Fanuel locus in quo Iacob tota nocte colluctans Israelis uocabulurn <note type="marginal">123</note>
+<note type="marginal">AC</note> <p><milestone unit="altnumbering" n="123"/> Fanuel locus in quo Iacob tota nocte colluctans Israelis uocabulurn 
 <lb n="5"/> meruit, iuxta torrentem Iaboc. Fanuel autem interpretatur facies dei
 ab eo quod ibi deum uiderit.</p>
 <p>Fogo ciuitas Adad regis, quae est in regione Gebalitica.</p>
@@ -3017,7 +3018,7 @@ uocatus est Fanuel.</p>
 <p>Fraathon, unde fuit Abdon iudex populi Israel iu monte Amalec.</p></div>
 
 <div type="textpart" subtype="source">
-<head>De Regnorum libris.</head> <note type="marginal">124</note>
+<head>De Regnorum libris.</head> <milestone unit="altnumbering" n="124"/>
 <p>Felmoni Almoni, quod Aquila interpretatur illum uel istum, Symmachus
 uero nescio quem locum, Theodotion illum locum Elmoni. de
 quo in libris Hebraicarum quaestionum plenius disputatum est.</p>
@@ -3028,12 +3029,12 @@ habitauere Iudaei.</p></div></div>
 
 <div type="textpart" subtype="section" n="21">
  <div type="textpart" subtype="source">
-<note type="marginal">ACH</note> <head>|| De Genesi.</head> <note type="marginal">111</note>
+<note type="marginal">ACH</note> <head><milestone unit="altnumbering" n="111"/> De Genesi.</head> 
 <lb n="15"/> <p>Chalanne ciuitas regni Nemrod in Babylone, cuius et Esaias meminit
 dicens: »et Chalanne, ubi turris aedificata est«.</p>
 <p>Chalac urbs Assyriorum, quam aedificauit Assur egrediens de terra
 Sennaar.</p>
-<p>Charran ciuitas Mesopotamiae trans Edessam quae usque hodie <note type="marginal">112</note>
+<p>Charran ciuitas Mesopotamiae trans Edessam quae usque hodie <milestone unit="altnumbering" n="112"/>
 <lb n="20"/> Carra dicitur, ubi Romanus est caesus exercitus, et Crassus dux captus.</p>
 <p>Chebron, quae quondam uocabatur Arbe, licet male in Graecis codicibus
 habeatur Arboc. condita est autem ante Septem annos quam Tanis
@@ -3067,7 +3068,7 @@ er oppidum, quod in honorem postea Tiberii Caesaris Herodes rex ludaeae
 <lb n="20"/> instauratwm appellauit Tiberiadem, ferunt hoc primum appellatum nomine.</p></div>
 
 <div type="textpart" subtype="source">
-<head>De libro Iesu.</head> <note type="marginal">113</note>
+<head>De libro Iesu.</head> <milestone unit="altnumbering" n="113"/>
 <p>Chefira uicus ad ciuitatem pertinens Gabaon in tribu Beniamin.</p>
 <p>Chsalon in tribu Iudae in finibus Aeliae uilla pergrandis.</p>
 <p>Chsil in tribu Iudae.</p>
@@ -3105,7 +3106,7 @@ sub nomine Chsalus.</p>
 regione eiusdem fluminis.</p>
 <p>Chotha regio Assyriorum.</p>
 <p>Chobar flumen Babylonium, sicut in Iezechiel.</p>
-<lb n="20"/> <p>|| Charchamis ciuitas iuxta flumen Eufraten.</p> <note type="marginal">114</note>
+<lb n="20"/> <p><milestone unit="altnumbering" n="114"/> Charchamis ciuitas iuxta flumen Eufraten.</p> 
 <p>Chamoam uillula iuxta Bethleem.</p>
 <p>Chelon, quae et Elon, oppidum Moab, sicut in Ieremia scribitur.</p>
 <p>Chamos idolum Moab.</p>
@@ -3122,7 +3123,7 @@ na narrat traditum.</p>
 <pb n="v.3.pt.1.p.177"/>
 <div type="textpart" subtype="section" n="22">
  <div type="textpart" subtype="source">
-<note type="marginal">ACH</note> <head>|| De Pentateucho.</head> <note type="marginal">144</note>
+<note type="marginal">ACH</note> <head><milestone unit="altnumbering" n="144"/> De Pentateucho.</head> 
 <p>On urbs in Aegypto, quae Heliopolis dicitur Graece, id est ciuitas
 solis, quam aedificauerunt filii Israel, sicut Septuaginta interpretes arbitrantur.
 alioquin in Hebraicis uoluminibus non habetur, et recte, siquidem
